@@ -70,3 +70,14 @@ console.log(obj1[0]); // If you initially define a property by its name, you mus
 //Defining properties for an object type
 Car.prototype.color = 'black';
 console.log(mycar.color); //adding to prototype is shared by all object type
+
+
+// Object.keys()
+// Object.values()
+// Object.entries()
+// console.log(Object.fromEntries(Object.entries(obj1)));
+Object.assign(obj1,mycar);
+Object.freeze(obj1); //stop content from changes
+obj1.firstName = 'Hey';
+console.log(obj1);
+console.log(Object.getOwnPropertyDescriptor(mycar,'model'));
