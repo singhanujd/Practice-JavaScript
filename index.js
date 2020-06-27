@@ -2,8 +2,8 @@
 import './style.css';
 // import './variables.js';
 // import './object.js';
-// import './function.js';
-import './arrays.js';
+import './function.js';
+// import './arrays.js';
 
 // Write Javascript code!
 const appDiv = document.getElementById('app');
