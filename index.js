@@ -6,7 +6,8 @@ import './style.css';
 // import './arrays.js';
 // import './es2015.js';
 // import './advanced-expression.js';
-import './classes.js';
+// import './classes.js';
+import './prototypal-inheritance.js';
 
 // Write Javascript code!
 const appDiv = document.getElementById('app');
