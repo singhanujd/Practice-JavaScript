@@ -4,7 +4,8 @@ import './style.css';
 // import './object.js';
 // import './function.js';
 // import './arrays.js';
-import './es2015.js';
+// import './es2015.js';
+import './advanced-expression.js';
 
 // Write Javascript code!
 const appDiv = document.getElementById('app');
