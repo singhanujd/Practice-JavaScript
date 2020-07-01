@@ -1,3 +1,7 @@
-# js-n1w5mq
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-n1w5mq)
+<!-- Tables cell overlap
+getting browser name and version from navigator
+reseting form values
+setting background image of main page
+setting base ref of page
+for loop with setTimeout and printing values
+frameset columns and rows -->
