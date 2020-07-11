@@ -1,6 +1,6 @@
 // Import stylesheets
-import './style.css';
-import './extra.js';
+// import './style.css';
+// import './extra.js';
 // import './variables.js';
 // import './object.js';
 // import './function.js';
@@ -9,6 +9,7 @@ import './extra.js';
 // import './advanced-expression.js';
 // import './classes.js';
 // import './prototypal-inheritance.js';
+import './nodes-modification.js';
 
 // Write Javascript code!
 // const appDiv = document.getElementById('app');
