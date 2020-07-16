@@ -10,7 +10,8 @@
 // import './classes.js';
 // import './prototypal-inheritance.js';
 // import './nodes-modification.js';
-import './timers.js';
+// import './timers.js';
+import './events.js';
 
 // Write Javascript code!
 // const appDiv = document.getElementById('app');
